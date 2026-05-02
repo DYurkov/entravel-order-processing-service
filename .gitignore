@@ -1,0 +1,20 @@
+# Build outputs
+bin/
+obj/
+*.user
+
+# .NET secrets
+appsettings.*.local.json
+
+# Rider / VS
+.idea/
+.vs/
+*.suo
+*.swp
+
+# Testcontainers
+.testcontainers.properties
+
+# OS
+.DS_Store
+Thumbs.db
